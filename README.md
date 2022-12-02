@@ -1,9 +1,7 @@
 # 乌鲁木齐大火 Urumqi Fire
 
-* **Contact**: [asuvigil@proton.me](mailto:asuvigil@proton.me)
 
-
-## 乌鲁木齐大火 Fire in Urumqi, Xinjiang
+## 背景信息 Background Information for Fire in Urumqi, Xinjiang
 
 11月24日晚，封控了近4个月的新疆乌鲁木齐天山区吉祥苑小区内一栋高层住宅楼发生火灾，大火持续烧了近三个小时。
 
@@ -37,6 +35,9 @@ In the briefing, the authorities stated that the community is a "low-risk area, 
 * BBC: [China Covid: Protests continue in major cities across the country](https://www.bbc.com/news/world-asia-63771109)
 * Reuters: [Protests erupt in Xinjiang and Beijing after deadly fire](https://www.reuters.com/world/china/huge-covid-protests-erupt-chinas-xinjiang-after-deadly-fire-2022-11-26/)
 
-### 重要信息节点
+### 重要信息节点 Important Information Hubs
 
 * 李老师不是你老师 https://twitter.com/whyyoutouzhele
+
+
+> **Contact**: [asuvigil@proton.me](mailto:asuvigil@proton.me)
